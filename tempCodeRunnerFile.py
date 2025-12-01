@@ -1,1 +1,0 @@
-print(f"after swaping number one is {userInput1} and number two is {userInput2}")
